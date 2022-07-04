@@ -5,6 +5,7 @@ dtc-de-351304-e5201*.json
 AWS_accesskey.csv
 *.env
 week2_data_ingestion/airflow/logs/*
+week3_datawarehouse/airflow/logs/*
 .terraform.*
 week1_basics_setup/2_docker_SQL/output.csv
 week1_basics_setup/2_docker_SQL/ny_taxi_postgres_data/base/16384/16385

@@ -92,7 +92,7 @@ def download_parquetize_upload_dag(
         download_dataset_task >> format_to_parquet_task >> local_to_gcs_task >> rm_task
 
 
-URL_PREFIX = 'https://s3.amazonaws.com/nyc-tlc/trip+data'
+URL_PREFIX = 'https://d37ci6vzurychx.cloudfront.net/trip-data'
 
 #YELLOW_TAXI_DATA DAG:
 

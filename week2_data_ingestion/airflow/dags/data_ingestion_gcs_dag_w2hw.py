@@ -147,6 +147,7 @@ download_parquetize_upload_dag(
     gcs_path_template = GREEN_TAXI_GCS_PATH_TEMPLATE
 )
 
+
 #FHV for-hire vehicle trip records
 #https://nyc-tlc.s3.amazonaws.com/trip+data/fhv_tripdata_2021-01.parquet
 

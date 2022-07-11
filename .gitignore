@@ -1,7 +1,7 @@
 week1_basics_setup/2_docker_SQL/yellow_tripdata_2021-01.csv
 week1_basics_setup/2_docker_SQL/ny_taxi_postgres_data/*
 cmd.sh
-dtc-de-351304-e5201*.json
+dtc-de-351304-*.json
 AWS_accesskey.csv
 *.env
 week2_data_ingestion/airflow/logs/*

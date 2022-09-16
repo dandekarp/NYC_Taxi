@@ -10,4 +10,4 @@ week3_datawarehouse/airflow/logs/*
 week1_basics_setup/2_docker_SQL/output.csv
 week1_basics_setup/2_docker_SQL/ny_taxi_postgres_data/base/16384/16385
 week1_basics_setup/1_terraform_GCP/.terraform/providers/registry.terraform.io/hashicorp/google/4.22.0/windows_amd64/terraform-provider-google_v4.22.0_x5.exe
-week1_basics_setup/2_docker_SQL/dtc-de2-8.json
+week1_basics_setup/2_docker_SQL/dtc-de2-*.json

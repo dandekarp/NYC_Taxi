@@ -3,7 +3,7 @@ locals {
 }
 
 variable "project" {
-    description = "dtc-de-351304"
+    description = "eminent-clock-362719"
 }
 
 variable "region" {
